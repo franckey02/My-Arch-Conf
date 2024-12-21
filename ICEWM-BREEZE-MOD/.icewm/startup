@@ -1,0 +1,7 @@
+#! /bin/bash
+nm-applet &
+pulseaudio &
+tint2 &
+/lib/mate-polkit/polkit-mate-authentication-agent-1 &
+setxkbmap es &
+picom &
