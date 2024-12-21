@@ -6,3 +6,4 @@ dependencias:
 - pcmanfm
 - iconos breeze dark
 - tema gtk Chocula
+- rofi
